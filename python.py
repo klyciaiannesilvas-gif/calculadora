@@ -5,4 +5,5 @@ if a == "adiçao":
     print(b+c)
 if a == "subtraçao":
     print(b-c)
-
+if a == "divisao":
+    print(b/c)
