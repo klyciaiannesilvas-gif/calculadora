@@ -3,4 +3,6 @@ b = int(input("Digite um numero"))
 c = int(input("Digite outro numero"))
 if a == "adiçao":
     print(b+c)
+if a == "subtraçao":
+    print(b-c)
 
